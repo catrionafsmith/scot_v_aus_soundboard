@@ -4,6 +4,16 @@ html {
   background-size: cover;
 }
 
+h3 {
+  color: white;
+  font-family: sans-serif;
+  margin: 20px;
+  font-size: 150%;
+  text-shadow: 0 0 .7rem black;
+  text-align: right;
+ 
+}
+
 body,html {
   margin: 0;
   padding: 0;
