@@ -1,3 +1,3 @@
 # Scotland v Australia Rugby Soundboard
 
-Created based on Wes Bos
+This soundboard was created based on Wes Bos JavaScript30 Day 1 project.
