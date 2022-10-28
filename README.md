@@ -1,6 +1,8 @@
 # Scotland v Australia Rugby Soundboard
 ![Screenshot 2022-10-28 at 15 43 24](https://user-images.githubusercontent.com/113362369/198654228-87526eb4-fd17-4c1c-bf49-88a37000a691.png)
 
+RULEZ 
+
 Scotland v Australia Rugby Soundboard is a soundboardbased on Wes Bos JavaScript30 Day 1 project. It was made to celebrate the Scotland v Australia rugby match on 29th October 2022. By clicking on the buttons on your keyboard, you can hear the atmosphere of the match!
 
 **Built with:**
